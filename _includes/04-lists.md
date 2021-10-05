@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. IOT
+2. AI
+3. Blockchain
+   1.	💻
+   2. 🤖
+   3. 💻
